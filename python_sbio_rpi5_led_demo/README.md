@@ -5,7 +5,7 @@ This project provides a basic Python extension that wraps the Storyboard IO (SBI
 Note: This project does not include the Storyboard Runtime engine. The runtime engine can be found in the installation path of Storyboard.
 
 ## Connection diagram:
-![alt text](https://github.com/MaximilianoZa/sb_demos/blob/main/python_sbio_rpi5_led_demo/Connection_diagram.png?raw+true)
+![alt text](/python_sbio_rpi5_led_demo/Connection_diagram.png?raw=true)
 
 ## Package contents:
 - **frontend/**

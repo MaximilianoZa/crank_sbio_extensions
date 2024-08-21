@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.ToggleOff" type="0x8">
+    <label>ToggleOff animation complete</label>
+    <description>The animation named ToggleOff has completed</description>
+  </event>
+  <event name="gre.animate.complete.ToggleOn" type="0x8">
+    <label>ToggleOn animation complete</label>
+    <description>The animation named ToggleOn has completed</description>
+  </event>
+  <event name="gre.animate.stop.ToggleOff" type="0x8">
+    <label>ToggleOff animation stopped</label>
+    <description>The animation named ToggleOff has been stopped</description>
+  </event>
+  <event name="gre.animate.stop.ToggleOn" type="0x8">
+    <label>ToggleOn animation stopped</label>
+    <description>The animation named ToggleOn has been stopped</description>
+  </event>
+  <event format="1s0 ack" name="ledAck" type="0x40">
+    <field name="ack"/>
+  </event>
+</eventdefinitions>

@@ -1,7 +1,7 @@
 crank_dir=/home/pi/crank
 RUNTIME=$crank_dir/runtimes/linux-raspberry-aarch64-opengles_2.0-drm-obj
 
-APP=$crank_dir/apps/sb_led_app/LedBlinking.gapp
+APP=$crank_dir/apps/sb_led_app_v2/LedBlinkingV2.gapp
 
 export SBENGINE=$RUNTIME/bin/sbengine
 export SB_PLUGINS=$RUNTIME/plugins

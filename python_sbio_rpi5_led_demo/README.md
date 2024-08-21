@@ -5,11 +5,11 @@ This project provides a basic Python extension that wraps the Storyboard IO (SBI
 Note: This project does not include the Storyboard Runtime engine. The runtime engine can be found in the installation path of Storyboard.
 
 ## Connection diagram:
-![alt text](https://github.com/MaximilianoZa/sb_demos/blob/main/python_sbio_rpi5_led_demo/Connection_diagram.png?raw+true)
+![alt text](https://github.com/MaximilianoZa/crank_sbio_extensions/blob/main/python_sbio_rpi5_led_demo/Connection_diagram.png?raw=true)
 
 ## Package contents:
 - **frontend/**
-  - **sb_led_blink_app/**: SB front end app
+  - **sb_led_blink_app_v2/**: SB front end app
 - **backend/**
   - **setup.py**: Script to build code on target
   - **sbio_python.c**: SBIO C wrapped in Python

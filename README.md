@@ -1,4 +1,4 @@
-# Crank Software Crank SBIO Extensions Demos Repository
+# Crank Software SBIO Extensions Demos Repository
 
 ## Overview
 This repository provides extensions that wrap the Storyboard IO (SBIO) library, allowing integration with Python, Rust, and other languages. It demonstrates seamless communication between Storyboard applications and backend code in these languages.
